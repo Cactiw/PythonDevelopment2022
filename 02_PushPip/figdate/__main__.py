@@ -2,7 +2,7 @@ import locale
 
 from argparse import ArgumentParser
 
-from figdate import figlet_date
+from .figdate import figlet_date
 
 
 if __name__ == "__main__":
